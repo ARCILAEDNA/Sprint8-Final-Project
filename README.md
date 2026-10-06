@@ -1,7 +1,7 @@
 # Sprint8-Final-Project
 Explorando Drivers de comportamiento en una empresa de retail
-# Sprint8-Final-Project
-Explorando Drivers de comportamiento en una empresa de retail
+
+https://colab.research.google.com/github/ARCILAEDNA/Sprint8-Final-Project/blob/main/S8_Student_Version_Project_NovaRetail.ipynb
 
 ## Descripción general
 
